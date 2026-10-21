@@ -1,0 +1,1 @@
+# Here is a live demonstration of how CVE-2026-24332 can be abused. In simple terms, it reads the current array of users; and if they're truly offline, they're gone from the array. If they are invisible, it shows them still in the array, just listed as invisible/
